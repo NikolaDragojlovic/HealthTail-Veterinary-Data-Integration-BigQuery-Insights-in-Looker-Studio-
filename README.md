@@ -111,4 +111,4 @@ End-to-End Delivery: Demonstrated proficiency in the full data lifecycle, from r
 
 ## Author
 Nikola Dragojlović  
-Junior Data Analyst Masterschool DA & BI Track
+Junior Data Analyst (Masterschool DA & BI Track, April Cohort 2025)
