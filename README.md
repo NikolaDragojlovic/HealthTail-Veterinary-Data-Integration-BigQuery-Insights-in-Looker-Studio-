@@ -1,5 +1,7 @@
-# Project-BigQuery-Insights-in-Looker-Studio
+# HealthTail-Veterinary-Data-Integration-BigQuery-Insights-in-Looker-Studio
+
 HealthTail: Veterinary BI Insights & Medication Audit Automation
+
 
 ## Project Overview
 Set in early 2026, this project was developed for HealthTail, one of the city's largest veterinary hospitals, under the consultancy of Clinipet. The goal was to transform HealthTail’s manual auditing processes into an automated, data-driven system using the Google Cloud Platform (GCP) suite.
